@@ -1,0 +1,8 @@
+{
+  "name": "dispatcher-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "ioredis": "^5.3.0"
+  }
+}
